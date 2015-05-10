@@ -1,21 +1,35 @@
-#整理一些java小组的学习资料
-###在线ppt
->会慢慢更新，整理一些优秀的ppt
+#多火工作室JAVA学习小组
 
-* [java小组第五次技术分享ppt](http://adolphlwq.github.io/javagroup/)
+![](img/java-group-banner.jpg)
 
-###java资料相关
-* [tutorialspoint-java版](http://www.tutorialspoint.com/java/index.htm)
-* [github java资源集合](https://github.com/akullpp/awesome-java)&nbsp;&nbsp;&nbsp;&nbsp;[中文版点我](http://top.jobbole.com/15689/)
+##培训方式及学习流程
+###培训方式
+>宗旨就是结合github的优势进行更加现代化的学习。
 
-###git学习资料
-* [开发者日常使用的 Git 命令](http://blog.jobbole.com/54184/)
-* [git简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
-* [git官方文档](http://git-scm.com/book/zh/v1)
-* [写给Git初学者的7个建议](http://blog.jobbole.com/50603/)
-* [版本控制之最佳实践（Git版）](http://blog.csdn.net/happydeer/article/details/17679369)
-* [Git 分支的最佳实践](http://jiongks.name/blog/a-successful-git-branching-model/?utm_source=tuicool)
-* [github简历制作网站](http://resume.github.io/)
+* 在`javagroup`仓库发布任务
+* 大家fork`javagroup`仓库
+* 完成README.md中的任务
+* 提交`pull request`命令
 
-###API大全
-[在线api大全](http://resume.github.io/)
+###学习流程
+主要分为两个方面：
+* JAVA SE基础
+	* 每天都会发布任务，基础不能丢
+	* 每天都要提交代码，基础代码我都会`review`
+* java web modules练习
+	* 提取java web中的常用功能
+	* 每周六我会带着大家我们来一起学习
+	* 大家利用周日-周五的时间来完成`modules`
+* 基础和modules都熟悉后我们做一个小型项目实战
+* 学习框架`Spring`
+
+<span style="color:red;">**注意：**</span>
+我的javagroup仓库中有两个分支，默认轻卡unxia默认情况下是在`gh-pages`下，大家要调整到`master`分支！
+
+###学习资源
+相关的学习资源都放在了`master`分支下的`RESOURCE.md`文件中
+
+[点我快速进入`RESOURCE.md`](https://github.com/adolphlwq/javagroup/blob/master/RESOURCES.md)
+
+**每周我们都会利用例会交流大家的代码，一起学习如何编写优雅的代码，希望大家不断进步，更加优秀**
+
