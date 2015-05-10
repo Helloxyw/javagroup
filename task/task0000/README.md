@@ -9,8 +9,13 @@ task0000下新建文件夹，以自己的名字缩写命名
 push 到自己的仓库
 编写README.md，介绍一下自己的问题或者收获什么的
 
+##deadline
+5.11晚24.00之前按照新的方式提交`task0000`
+
 ##如何提交？
 >以task0000 王钰作为例子
+
+###查看流程图
 
 ```flow
 st=>start: Start
@@ -35,4 +40,4 @@ st->op1->op2->op3->op4->op5->op6->op7->op8->op9->op10->op11->cond
 cond(yes)->op13->e
 cond(no)->op14->op11
 ```
-
+###
