@@ -14,4 +14,4 @@
 新建`Java Project`，在里面写自己的代码
 
 <span style="color:red;">注意：</span>
-* 基础的报结构`com.dh.*`,*表示自己定义的包
+* 基础的包结构`com.dh.*`,*表示自己定义的包
