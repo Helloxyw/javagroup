@@ -30,6 +30,6 @@
 相关的学习资源都放在了`master`分支下的`RESOURCE.md`文件中
 
 [点我快速进入`RESOURCE.md`](https://github.com/adolphlwq/javagroup/blob/master/RESOURCES.md)
-
+http://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htmhttp://www.tutorialspoint.com/javaexamples/java_environment_setup.htm
 **每周我们都会利用例会交流大家的代码，一起学习如何编写优雅的代码，希望大家不断进步，更加优秀**
 
