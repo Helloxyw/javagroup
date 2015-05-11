@@ -12,7 +12,7 @@ push 到自己的仓库
 * author by ZPX<br>
 This is the image followed<br>
 ###截图
-![](img/028.jpg)<br>
+![](img/028.png)<br>
 ###My code
 ` ``java
 public class HelloWorld{
@@ -25,3 +25,5 @@ System.out.println("Hello Chaos!");
 System.out.printf("Hello \t\n");
 }
 }
+##Question
+*some faults when i set the jre in the past and now it displayed &finally i solved
