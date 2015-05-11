@@ -10,7 +10,7 @@ push 到自己的仓库
 #完成结果
 *auther...徐永武
 *运行截图
-![](img/Demo.png)<br>
+![](img/Demo.png)
 
 #疑问
 *暂无
